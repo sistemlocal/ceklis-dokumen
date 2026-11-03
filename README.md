@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fandiego Tours & Travel - Sistem Verifikasi Dokumen Jamaah</title>
+    <meta name="description" content="Sistem verifikasi dokumen kelengkapan jamaah haji dan umrah Fandiego Tours & Travel, manifest penerbangan internasional, fitur pindah tanggal otomatis, serta unduh laporan Excel dan PDF." />
+    <meta property="og:title" content="Fandiego Tours & Travel - Sistem Verifikasi Dokumen Jamaah" />
+    <meta property="og:description" content="Sistem verifikasi dokumen kelengkapan jamaah haji dan umrah Fandiego Tours & Travel, manifest penerbangan internasional, fitur pindah tanggal otomatis, serta unduh laporan Excel dan PDF." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-slate-50 text-slate-800 antialiased font-sans">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
